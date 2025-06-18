@@ -41,5 +41,5 @@ jobs:
         run: |
           curl -X POST -H "Content-Type: application/json" \
           -d '{"status":"success","message":"Job finalizado"}' \
-          https://webhook.site/7976e3b8-2e08-4e0f-8f52-2836c82f69c2
+          https://webhook.site/f1e21032-db14-4e4f-b9e5-14adf58972e1
 
